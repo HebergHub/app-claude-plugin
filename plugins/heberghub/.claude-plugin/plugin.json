@@ -1,0 +1,12 @@
+{
+  "name": "heberghub",
+  "description": "Gérer ses services HebergHub (VPS, hébergement web, serveurs de jeu, applications PaaS, factures, tickets) depuis Claude Code",
+  "author": {
+    "name": "HebergHub",
+    "url": "https://heberghub.fr"
+  },
+  "homepage": "https://boutique.heberghub.fr/claude",
+  "repository": "https://github.com/HebergHub/app-claude-plugin",
+  "license": "MIT",
+  "keywords": ["hebergement", "vps", "minecraft", "paas", "heberghub"]
+}

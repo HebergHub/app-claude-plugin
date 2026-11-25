@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "heberghub": {
+      "type": "http",
+      "url": "https://boutique.heberghub.fr/mcp"
+    }
+  }
+}

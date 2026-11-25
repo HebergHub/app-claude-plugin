@@ -1,0 +1,15 @@
+{
+  "name": "heberghub",
+  "owner": {
+    "name": "HebergHub",
+    "url": "https://heberghub.fr"
+  },
+  "description": "Plugin officiel HebergHub : gérer ses VPS, sites, serveurs de jeu et applications depuis Claude Code",
+  "plugins": [
+    {
+      "name": "heberghub",
+      "source": "./plugins/heberghub",
+      "description": "Connecteur HebergHub (serveur MCP, connexion avec votre compte de la boutique) et skills de diagnostic, Minecraft, PaaS et VPS"
+    }
+  ]
+}
