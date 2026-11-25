@@ -11,7 +11,9 @@ Adresse du connecteur : `https://boutique.heberghub.fr/mcp`
 3. Connexion : « Se connecter maintenant ». Client OAuth : laissez le choix par défaut ou « Enregistrer automatiquement ».
 4. Connectez-vous à la boutique et autorisez l'accès.
 
-Skills (facultatif) : téléchargez les archives de la dernière version (`dist/*.zip`, fabriquées par `scripts/build-skills-zip.sh`) et ajoutez-les dans Personnaliser → Skills → Téléverser une skill.
+Skills (facultatif) : téléchargez les archives sur la [page de la dernière version](https://github.com/HebergHub/app-claude-plugin/releases/latest) et ajoutez-les dans Personnaliser → Skills → Téléverser une skill.
+
+Guide complet (connexion, autorisations, outils, limites, dépannage) : [heberghub.fr/claude](https://heberghub.fr/claude).
 
 ## Claude Code
 
